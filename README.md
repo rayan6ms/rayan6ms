@@ -2,7 +2,7 @@
 <div>
   <a href="https://beacons.ai/rayan6ms">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayan6ms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme.stats.vercel.app/api/top-langs/?username=rayan6ms&layout=compact&langs_count=168theme=dracula"/>"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan6ms&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 ##
@@ -26,7 +26,7 @@
   <a href="https://instagram.com/rayan6ms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/migole_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
   target="_blank"></a>
-  <a href="https://twitter.com/rayan6ms" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/rayan6ms" target="_blank"><img src="https://img.shields.io/badge/Twitter-169CED?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href ="mailto:rayan6ms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo-gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rayan6ms" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
