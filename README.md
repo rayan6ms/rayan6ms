@@ -2,7 +2,10 @@
 
 <p align="center">
   <a href="https://beacons.ai/rayan6ms">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=rayan6ms&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" />
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api?username=rayan6ms&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&number_format=long"
+    />
     <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rayan6ms&layout=compact&langs_count=8&theme=dracula" />
   </a>
 </p>
